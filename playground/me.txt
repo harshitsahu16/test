@@ -1,0 +1,5 @@
+{{#user}}
+Name: Harshit
+Skills: HTML, CSS, JS, Next.js, React.js, Node.js, TailwindCss
+Email: harshitsahu160@gmail.com
+{{/user}}
